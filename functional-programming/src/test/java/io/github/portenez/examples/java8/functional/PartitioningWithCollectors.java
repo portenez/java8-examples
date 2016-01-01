@@ -17,7 +17,7 @@ import static org.junit.Assert.*;
  * <p>
  * Created by vgarcia on 1/1/16.
  */
-public class Partitioning {
+public class PartitioningWithCollectors {
 
 
     @Test
